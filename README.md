@@ -1,5 +1,7 @@
 # AnimeVerse
 
+Live website: 
+
 AnimeVerse is a browser-based anime discovery and recommendation experience. It lets users explore a catalogue of anime, view trend-oriented analytics, find highly rated less-popular titles, and receive content-based recommendations.
 
 > This repository contains the shareable, static browser version of a **group project**. It does not claim sole authorship. Add the names and responsibilities of every team member below before publishing.
