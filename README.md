@@ -1,43 +1,80 @@
-# AnimeVerse
+# ANIMEVERSE ✦
 
-Live website: https://shwetavanarse.github.io/animeverse/
+### Discover your next anime obsession.
 
-AnimeVerse is a browser-based anime discovery and recommendation experience. It lets users explore a catalogue of anime, view trend-oriented analytics, find highly rated less-popular titles, and receive content-based recommendations.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-8b5cf6?style=for-the-badge)](https://YOUR-USERNAME.github.io/animeverse/)
+[![HTML](https://img.shields.io/badge/HTML-CSS%20%2B%20JavaScript-f97316?style=for-the-badge)](index.html)
+[![Dataset](https://img.shields.io/badge/Catalogue-19%2C930%20Anime-ec4899?style=for-the-badge)](#features)
 
+> A modern anime discovery and recommendation platform built for exploring anime trends, hidden gems, and personalised content-based recommendations.
 
-## Features
+🔗 **Live Website:** [Open AnimeVerse] https://shwetavanarse.github.io/animeverse/
+---
 
-- Browse and filter a catalogue of 19,930 anime titles
-- Explore ratings, studios, release years, formats, and other catalogue insights
-- Discover "Hidden Gems" based on rating and popularity
-- Get content-based recommendations using genre, theme, demographic, format, and studio information
-- Run entirely in the browser—no server, Python environment, or Docker setup is required for this version
+## ✨ Features
 
-## Run locally
+- **Anime Explorer** — Search and filter thousands of anime by title, genre, type, and rating.
+- **Content-Based Recommendations** — Discover similar anime using genres, themes, demographics, studios, and format.
+- **Analytics Dashboard** — Explore catalogue trends, ratings, release years, studios, and formats.
+- **Hidden Gems** — Find highly rated anime that are less widely known.
+- **Responsive Interface** — Designed to work across desktop and mobile screens.
+- **Browser-Based** — Runs directly in a modern browser with no server setup required.
 
-Download or clone this repository, then open `index.html` in a modern web browser. An internet connection is only needed to load the page fonts.
+## 🖥️ Preview
 
-## Project structure
+Open the live website here:  
+https://shwetavanarse.github.io/animeverse/
 
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Content-based recommendation logic
+- TF-IDF-inspired text vectorisation and cosine similarity
+- GitHub Pages for deployment
+
+## 📂 Project Structure
+
+```text
+animeverse/
+├── index.html          # Website, styles, embedded dataset, and recommendation logic
+├── README.md           # Project documentation
+├── .gitignore          # Files excluded from GitHub
+└── source-code/        # Optional: original Python/Docker source files
 ```
-.
-├── index.html     # Application, styling, recommendation logic, and embedded data
-└── README.md      # Project documentation
-```
 
-## Team and contributions
+## 🚀 Run Locally
 
-This was developed as a group project. 
+1. Download or clone this repository.
+2. Open `index.html` in a modern web browser.
+3. Start exploring anime.
 
+No Python, Docker, or separate server is required for the published browser version.
 
-## Data and attribution
+## 🌐 Deployment
 
-The application includes processed anime metadata embedded in `index.html`. The supplied project notes identify its input as `Anime_clean (1).csv`, but do not state the dataset's original source or licence. Confirm that the team has permission to share the data publicly, then add the dataset source and licence here before publishing.
+This website is deployed with **GitHub Pages**.
 
-## Publishing with GitHub Pages
+To deploy your own copy:
 
-After uploading this repository to GitHub, open the repository's **Settings** → **Pages**. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save. GitHub will provide the public website link.
+1. Upload the project files to a GitHub repository.
+2. Open **Settings** → **Pages**.
+3. Select the `main` branch and `/ (root)` folder.
+4. Save the settings.
 
-## Licence
+GitHub will generate a public website link.
 
-No licence has been selected yet. Agree on one with your team before adding a licence file.
+## 📊 Dataset Note
+
+The browser version contains processed anime metadata for approximately **19,930 titles**. Before reusing or redistributing data, confirm the relevant source, permissions, and licence terms.
+
+## 🤝 Acknowledgements
+
+AnimeVerse was created as a collaborative academic project. Credit is due to all contributors involved in the project’s research, data preparation, design, and development.
+
+---
+
+<p align="center">Made with ✦ for anime fans</p>
+
