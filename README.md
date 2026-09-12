@@ -1,6 +1,6 @@
 # AnimeVerse
 
-Live website: 
+Live website: https://shwetavanarse.github.io/animeverse/
 
 AnimeVerse is a browser-based anime discovery and recommendation experience. It lets users explore a catalogue of anime, view trend-oriented analytics, find highly rated less-popular titles, and receive content-based recommendations.
 
