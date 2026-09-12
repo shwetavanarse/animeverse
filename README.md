@@ -4,7 +4,6 @@ Live website: https://shwetavanarse.github.io/animeverse/
 
 AnimeVerse is a browser-based anime discovery and recommendation experience. It lets users explore a catalogue of anime, view trend-oriented analytics, find highly rated less-popular titles, and receive content-based recommendations.
 
-> This repository contains the shareable, static browser version of a **group project**. It does not claim sole authorship. Add the names and responsibilities of every team member below before publishing.
 
 ## Features
 
@@ -28,11 +27,8 @@ Download or clone this repository, then open `index.html` in a modern web browse
 
 ## Team and contributions
 
-This was developed as a group project. Please complete this section with accurate information before making the repository public.
+This was developed as a group project. 
 
-- **Your name** — _your actual contribution_
-- **Teammate name** — _their actual contribution_
-- **Teammate name** — _their actual contribution_
 
 ## Data and attribution
 
